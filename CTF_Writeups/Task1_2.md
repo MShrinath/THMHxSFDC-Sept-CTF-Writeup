@@ -12,5 +12,19 @@ The janitor once stumbled across the Chef’s private recipe book while navigati
 
 ---
 
+## 🔍 Approach & Analysis
+
+1. **Understanding the Story Clues**  
+   - The story mentioned a **“restricted folder”** and a forgotten archive.  
+   - This hinted that the content might be hidden but still accessible somehow.
+
+2. **Checking Site Metadata**  
+   - Remembered that some hidden paths are often listed in `robots.txt`.  
+   - Opened `/robots.txt` and found the flag waiting there.
+
+![Robots.txt Flag](src/t12.png)
+
+---
+
 ## ✅ Flag
     THMxSFDC{r0b0ts_t3ll_s3cr3ts}
