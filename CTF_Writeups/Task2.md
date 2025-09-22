@@ -1,8 +1,10 @@
 # CTF Write-Up: Task 2  
-# CTI: Hospital Outbreak | **Points:** 50
+# CTI: Hospital Outbreak | Points: 50
 
 ## 📂 Task File  
-[Hospital Logs CSV](src\hospital-incident-logs-1758424351114.csv)
+[Hospital Logs CSV](src/hospital-incident-logs-1758424351114.csv)
+
+*Analyse the logs (`.csv`) and answer the question.*
 
 ---
 
@@ -11,7 +13,6 @@
 **Which threat actor was responsible for this incident?**
 
 ---
-
 
 ## 🔍 Approach & Analysis
 
@@ -34,5 +35,5 @@
 
 ## ✅ Flag
 
-> **lazarus**  
+    lazarus
 
