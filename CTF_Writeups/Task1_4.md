@@ -12,5 +12,23 @@ Secrets do not always hide in logs and ledgers. Sometimes they slip through the 
 
 ---
 
+## 🔍 Approach & Analysis
+
+1. **Following the Story Clues**  
+   - The story talks about the **“voice of customers”** and echoes, hinting at user-submitted content.  
+   - Checked the **dashboard**, found a **reviews page** where diners could submit input.
+
+2. **Testing for XSS**  
+   - The input was not sanitized, so tried a simple XSS payload:  
+     ```html
+     <script>alert(1)</script>
+     ```  
+   - It successfully executed, confirming a **Reflected XSS vulnerability**.  
+   - The page revealed the flag in the process.
+
+![XSS Flag](src/t14.png)
+
+---
+
 ## ✅ Flag
     THMxSFDC{xss_c0mm3nt_h4ck}
