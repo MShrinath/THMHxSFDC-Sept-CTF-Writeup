@@ -1,6 +1,12 @@
 # CTF Write-Up: Task 1  
 # Web Exploitation | Points: 140
 
+## 🔗 Challenge Overview
+
+Task 1 contained a link to the target site and consisted of **5 subtasks**, each with its own challenge.
+
+---
+
 ## 📂 Target Site  
 [meher-ctf.onrender.com](https://meher-ctf.onrender.com/)  
 
