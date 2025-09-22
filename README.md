@@ -20,7 +20,7 @@
 
 <p align="center">
 
-| [![My LinkedIn](CTF_Writeups/src/c1.png)](https://lnkd.in/p/gUsE8Etx)<br>My LinkedIn | [![THM Hyd Linktree](CTF_Writeups/src/c2.png)](https://linktr.ee/thmhyderabad)<br>THM Hyd Linktree |
-|:------------------------------------------------------------:|:------------------------------------------------------------:|
+| [![LinkedIn](CTF_Writeups/src/c1.png)](https://lnkd.in/p/gUsE8Etx)<br>LinkedIn | [![TryHackMe](CTF_Writeups/src/c3.png)](https://tryhackme.com/p/MShrinath)<br>TryHackMe | [![THM Hyd Linktree](CTF_Writeups/src/c2.png)](https://linktr.ee/thmhyderabad)<br>THM Hyd Linktree |
+|:------------------------------------------------------------:|:------------------------------------------------------------:|:------------------------------------------------------------:|
 
 </p>
