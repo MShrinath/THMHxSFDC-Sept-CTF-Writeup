@@ -18,18 +18,11 @@
 
 ## 🔗 Connect
 
-<div style="display: flex; justify-content: space-around; align-items: center; width: 100%; margin-top: 20px;">
+<p align="center">
 
-  <!-- Personal LinkedIn -->
-  <a href="https://www.linkedin.com/in/mshrinath/" target="_blank" style="text-align: center; text-decoration: none; color: inherit;">
-    <img src="CTF_Writeups/src/c1.png" alt="My LinkedIn" width="60"><br>
-    <sub>My LinkedIn</sub>
-  </a>
+| [![My LinkedIn](CTF_Writeups/src/c1.png)](https://www.linkedin.com/in/mshrinath/)<br>My LinkedIn | [![THM Hyd Linktree](CTF_Writeups/src/c2.png)](https://linktr.ee/thmhyderabad)<br>THM Hyd Linktree |
+|:------------------------------------------------------------:|:------------------------------------------------------------:|
 
-  <!-- Organization Linktree -->
-  <a href="https://linktr.ee/thmhyderabad" target="_blank" style="text-align: center; text-decoration: none; color: inherit;">
-    <img src="CTF_Writeups/src/c2.png" alt="Org Linktree" width="60"><br>
-    <sub>THM Hyd Linktree</sub>
-  </a>
+</p>
 
 </div>
