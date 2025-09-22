@@ -20,7 +20,7 @@
 
 <p align="center">
 
-| [![My LinkedIn](CTF_Writeups/src/c1.png)](https://www.linkedin.com/in/mshrinath/)<br>My LinkedIn | [![THM Hyd Linktree](CTF_Writeups/src/c2.png)](https://linktr.ee/thmhyderabad)<br>THM Hyd Linktree |
+| [![My LinkedIn](CTF_Writeups/src/c1.png)](https://lnkd.in/p/gUsE8Etx)<br>My LinkedIn | [![THM Hyd Linktree](CTF_Writeups/src/c2.png)](https://linktr.ee/thmhyderabad)<br>THM Hyd Linktree |
 |:------------------------------------------------------------:|:------------------------------------------------------------:|
 
 </p>
